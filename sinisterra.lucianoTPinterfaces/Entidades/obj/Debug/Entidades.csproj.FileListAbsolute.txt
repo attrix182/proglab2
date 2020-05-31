@@ -1,0 +1,8 @@
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucho\source\repos\sinisterra.lucianoTPinterfaces\Entidades\obj\Debug\Entidades.pdb
