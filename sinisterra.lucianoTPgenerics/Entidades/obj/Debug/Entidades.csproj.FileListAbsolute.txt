@@ -1,0 +1,6 @@
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucho\source\repos\sinisterra.luciano\Entidades\obj\Debug\Entidades.pdb
